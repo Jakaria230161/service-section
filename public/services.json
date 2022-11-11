@@ -1,0 +1,68 @@
+[
+    {
+        "title": "Hair Extensions",
+        "price": "300",
+        "img": "https://luxesalon.com/wp-content/uploads/2013/05/Luxe-Style-e1426623485950-400x284.jpg",
+        "description": "Come in for a complimentary consultation for a price quote! Want a new look for the summer? How about putting in a few hair extensions blonde, blue, or purple? We use Babe Extensions, one of the most popular brands, that won’t damage your hair. They are taped in and require maintenance every few months as your hair grows out.Want a new look for the summer? How about putting in a few hair extensions blonde, blue, or purple.",
+        "author": {
+            "authorName": "Farvez Hossen",
+            "authorEmail": "farvezhossen101@gmail.com",
+            "authorImg": "https://lh3.googleusercontent.com/ogw/AOh-ky18hJYa_JBZ-wuKSn25vRqSbfcT1w8t68uVvQir=s64-c-mo"
+        }
+    },
+    {
+        "title": "Facial Waxing and Tinting",
+        "price": "600",
+        "img": "https://luxesalon.com/wp-content/uploads/2018/07/facial-waxing-and-tinting-400x284.jpg",
+        "description": "Our hair stylists and specially formulated waxes will have your skin feeling smooth and looking great. We use Babe Extensions, one of the most popular brands, that won’t damage your hair. They are taped in and require maintenance every few months as your hair grows out.Want a new look for the summer? How about putting in a few hair extensions blonde, blue, or purple.Our hair stylists and specially formulated waxes will have your skin feeling smooth and looking great.",
+        "author": {
+            "authorName": "Farvez Hossen",
+            "authorEmail": "farvezhossen101@gmail.com",
+            "authorImg": "https://lh3.googleusercontent.com/ogw/AOh-ky18hJYa_JBZ-wuKSn25vRqSbfcT1w8t68uVvQir=s64-c-mo"
+        }
+    },
+    {
+        "title": "Brazilian Blowout",
+        "price": "400",
+        "img": "https://luxesalon.com/wp-content/uploads/2018/07/luxe-hair-extensions-400x284.jpeg",
+        "description": "Through the use of a Brazilian Super Nutrient Complex and proprietary polymer system, Brazilian Blowout improves the overall condition of the hair by creating a protective protein layer around the hair shaft to eliminate frizz and smooth the cuticle, instantly transforming the look and feel of your hair for up to 12 weeks.From thick and curly to fine and frizzy, Brazilian Blowout is the only customizable smoothing treatment that delivers the smoothest possible result or keeps curly waves while removing frizz for all hair types in only 90 minutes. There is no waiting period! The moment you leave the salon you can go about your day, swim, wash hair, exercise, put your hair in a pony tail without worry.",
+        "author": {
+            "authorName": "Farvez Hossen",
+            "authorEmail": "farvezhossen101@gmail.com",
+            "authorImg": "https://lh3.googleusercontent.com/ogw/AOh-ky18hJYa_JBZ-wuKSn25vRqSbfcT1w8t68uVvQir=s64-c-mo"
+        }
+    },
+    {
+        "title": "Specialty or Corrective Color",
+        "price": "700",
+        "img": "https://luxesalon.com/wp-content/uploads/2018/07/Specialty-Corrective-Color-400x284.jpg",
+        "description": "Specialty or Corrective color is Luxe’s forte. Whether it be Ombre, Balayage, Bleach and Tone, we can transform your hair! Ombre is the French word for “shading or graduation color” also known as Specialty Color. This technique makes the hair gradually lighter at the ends. Ideal for medium to long hair lengths.Balayage is the French word that means, “to sweep”. Creates a low maintenance highlight that is naturally blended.Bleach and tone can create the perfect summer look.",
+        "author": {
+            "authorName": "Farvez Hossen",
+            "authorEmail": "farvezhossen101@gmail.com",
+            "authorImg": "https://lh3.googleusercontent.com/ogw/AOh-ky18hJYa_JBZ-wuKSn25vRqSbfcT1w8t68uVvQir=s64-c-mo"
+        }
+    },
+    {
+        "title": "Highlights and Lowlights",
+        "price": "800",
+        "img": "https://luxesalon.com/wp-content/uploads/2018/07/highlights-400x284.jpg",
+        "description": "Highlights and Lowlights use the same technique with a different outcome.A Partial Highlight gives strands of color to the top portion of the hair, with highlights falling from the hairline to behind the ears.A Full Highlight includes highlights throughout the entire head. Lowlights are strands of color darker than the rest of the hair. We use Babe Extensions, one of the most popular brands, that won’t damage your hair. They are taped in and require maintenance every few months as your hair grows out.Want a new look for the summer? How about putting in a few hair extensions blonde, blue, or purple.",
+        "author": {
+            "authorName": "Farvez Hossen",
+            "authorEmail": "farvezhossen101@gmail.com",
+            "authorImg": "https://lh3.googleusercontent.com/ogw/AOh-ky18hJYa_JBZ-wuKSn25vRqSbfcT1w8t68uVvQir=s64-c-mo"
+        }
+    },
+    {
+        "title": "Curly Cut",
+        "price": "500",
+        "img": "https://luxesalon.com/wp-content/uploads/2018/07/luxe-hair-extensions-400x284.jpeg",
+        "description": "We understand the frustration of trying to get a good haircut when your hair is naturally curly. It can be a scary and sometimes disastrous experience. We look at each individual curl and how it reacts. We take a sculptural approach and look at your hair dry because that is how we wear it. Curious?  Make a consultation appointment to learn the best way to cut your curls, once you meet us we are sure you will feel confident making a Curly Cut appointment and see beautiful results. They are taped in and require maintenance every few months as your hair grows out.Want a new look for the summer? How about putting in a few hair extensions blonde, blue, or purple.",
+        "author": {
+            "authorName": "Farvez Hossen",
+            "authorEmail": "farvezhossen101@gmail.com",
+            "authorImg": "https://lh3.googleusercontent.com/ogw/AOh-ky18hJYa_JBZ-wuKSn25vRqSbfcT1w8t68uVvQir=s64-c-mo"
+        }
+    }
+]
